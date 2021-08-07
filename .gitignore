@@ -1,1 +1,3 @@
-.i*
+.ipynb_checkpoints
+
+*.lock
