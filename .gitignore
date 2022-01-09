@@ -1,4 +1,4 @@
-*.checkpoints
+*_checkpoints
 
 *.lock
 
