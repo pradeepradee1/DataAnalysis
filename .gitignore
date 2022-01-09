@@ -1,6 +1,11 @@
-.ipynb_checkpoints
+*.checkpoints
 
 *.lock
 
 Pipfile*
+
+*.DB
+*.db
+
+*.csv
 
